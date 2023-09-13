@@ -22,7 +22,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
   ![SQL Server](https://img.shields.io/badge/-SqlServer-333333?style=flat&logo=microsoftsqlserver)
-  ![.net](https://img.shields.io/badge/-C#-333333?style=flat&logo=dotnet)
+  ![.net](https://img.shields.io/badge/-dotnet-333333?style=flat&logo=dotnet)
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/santiago-martin-herrera/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Santiago%20Herrera-blue?style=flat-square&logo=linkedin"></a>
