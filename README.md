@@ -27,6 +27,6 @@
 ### Contact Me
 <a href="https://www.linkedin.com/in/santiago-martin-herrera/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Santiago%20Herrera-blue?style=flat-square&logo=linkedin"></a>
 <a href="santiherrera99@icloud.com"><img alt="Email" src="https://img.shields.io/badge/Icloud-santiherrera99@icloud.com-blue?style=flat-square&logo=icloud"></a>
-<a href="https://santiagoh99.github.io/Portafolio-V2/"><img  alt="Portafolio" src="https://img.shields.io/badge/Portafolio-[santiherrera99@icloud.com](https://santiagoh99.github.io/Portafolio-V2/)-red?style=flat-square&logo=aboutdotme"></a>  
+<a href="https://santiagoh99.github.io/Portafolio-V2/"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-blue?style=flat-square&logo=aboutdotme"></a>  
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=santiagoh99&show_icons=true)
